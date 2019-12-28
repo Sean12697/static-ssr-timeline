@@ -1,0 +1,10 @@
+{
+    "head": {
+        "title": "Timeline Template",
+        "author": "Sean O'Mahoney",
+        "desc": "Use Static SSR to generate your own Timeline.",
+        "keywords": ["Timeline", "Template", "CSS", "Static", "SSR", "Generate"]
+    },
+    "heading": "Timeline Template",
+    "name": "John Smith"
+}

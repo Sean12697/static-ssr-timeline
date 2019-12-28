@@ -1,0 +1,44 @@
+[
+    {
+        "date": "28 DEC 2019",
+        "title": "Example #06 (GitHub)",
+        "img": "",
+        "desc": "Find the GitHub Page for this project below!",
+        "link": "https://github.com/Sean12697/static-ssr-timeline"
+    },
+    {
+        "date": "27 OCT 2019",
+        "title": "Example #05 (Meta Combo)",
+        "img": "https://picsum.photos/1000/800/?random",
+        "desc": "Lorum Ipsum",
+        "link": "https://twitter.com/Sean12697"
+    },
+    {
+        "date": "12 JUN 2019",
+        "title": "Example #04",
+        "img": "",
+        "desc": "Lorum Ipsum",
+        "link": ""
+    },
+    {
+        "date": "02 JUN 2019",
+        "title": "Example #03",
+        "img": "",
+        "desc": "Lorum Ipsum",
+        "link": ""
+    },
+    {
+        "date": "12 APRIL 2019",
+        "title": "Example #02 (Random Image)",
+        "img": "https://picsum.photos/1000/800/?random",
+        "desc": "Lorum Ipsum",
+        "link": ""
+    },
+    {
+        "date": "04 SEPT 2016",
+        "title": "Example #01 (Original CodePen)",
+        "img": "",
+        "desc": "Link the \"More\" button below to see the original CodePen created by Sava Lazic (MIT Licence).",
+        "link": "https://codepen.io/savalazic/pen/QKwERN"
+    }
+]
