@@ -146,6 +146,8 @@ a:focus {
   height: 200px;
   position: relative;
   margin-bottom: 20px;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
 }
 .timeline-img-header h2 {
   color: #ffffff;
