@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "copy-dir": "^1.2.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.4"
   }
 }
