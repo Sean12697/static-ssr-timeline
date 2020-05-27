@@ -9,7 +9,7 @@
   "author": "Sean O'Mahoney",
   "license": "ISC",
   "dependencies": {
-    "copy-dir": "^1.2.0",
+    "copy-dir": "^1.3.0",
     "shelljs": "^0.8.3"
   }
 }
